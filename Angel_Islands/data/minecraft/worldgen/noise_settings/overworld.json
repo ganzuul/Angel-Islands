@@ -25,7 +25,7 @@
     "continents": "angel_islands:continents/3d",
     "erosion": "angel_islands:erosion",
     "depth": "minecraft:overworld/depth",
-    "ridges": "angel_islands:ridges/final",
+    "ridges": "angel_islands:ridges/3d",
     "initial_density_without_jaggedness": {
       "type": "minecraft:add",
       "argument1": 0.1171875,
