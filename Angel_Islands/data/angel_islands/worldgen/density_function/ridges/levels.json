@@ -146,54 +146,6 @@
         "location": 248,
         "derivative": 0,
         "value": 0
-      },
-      {
-        "location": 280,
-        "derivative": 0,
-        "value": 0
-      },
-      {
-        "location": 280,
-        "derivative": 0,
-        "value": {
-          "coordinate": "angel_islands:islands/layer4/noise",
-          "points": [
-            {
-              "location": 0.075,
-              "derivative": 0,
-              "value": 0
-            },
-            {
-              "location": 0.075,
-              "derivative": 0,
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "location": 296,
-        "derivative": 0,
-        "value": {
-          "coordinate": "angel_islands:islands/layer4/noise",
-          "points": [
-            {
-              "location": 0.075,
-              "derivative": 0,
-              "value": 0
-            },
-            {
-              "location": 0.075,
-              "derivative": 0,
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "location": 296,
-        "derivative": 0,
-        "value": 0
       }
     ]
   }
