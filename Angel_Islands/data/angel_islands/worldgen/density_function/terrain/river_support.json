@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:mul",
+  "argument1": 0.025,
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": {
+      "type": "minecraft:range_choice",
+      "input": {
+        "type": "minecraft:abs",
+        "argument": {
+          "type": "minecraft:interpolated",
+          "argument": "angel_islands:ridges/islands"
+        }
+      },
+      "min_inclusive": 0,
+      "max_exclusive": 0.04,
+      "when_in_range": 1,
+      "when_out_of_range": 0
+    },
+    "argument2": {
+      "type": "minecraft:range_choice",
+      "input": "minecraft:y",
+      "min_inclusive": 76,
+      "max_exclusive": 98,
+      "when_in_range": 1,
+      "when_out_of_range": 0
+    }
+  }
+}
